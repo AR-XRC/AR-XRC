@@ -38,7 +38,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=itz-paglu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Activity Graph -->
-[![Bisu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah&theme=react-dark&hide_border=true&area=true)](https://github.com/AR-XRC)
+[![Bisu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AR-XRC&theme=react-dark&hide_border=true&area=true)](https://github.com/AR-XRC)
 
 </div>
 
