@@ -31,7 +31,10 @@
   
 <!-- Stats Grid -->
 ![](https://github-readme-stats.vercel.app/api?username=itz-paglu&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=itz-paglu&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AR-vercel.app/api/top-langs/?username=itz-paglu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Trophy -->
+![](https://github-profilelude_all_commitseludeicalmeicalmemelu&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-paglu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Trophy -->
