@@ -1,4 +1,4 @@
-!-- PProfile Header -->
+<!-- Profile Header -->
 <h1 align="center">🚀 Hi, I'm Abdullah</h1>
 <h3 align="center">💻 Beginner Programming | 🤖 AI Enthusiast | 🐍 Python Lover |I am From Sudan</h3>
 
@@ -30,18 +30,15 @@
 <div align="center">
   
 <!-- Stats Grid -->
-![](https://github-readme-stats.vercel.app/api?username=itz-paglu&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AR-vercel.app/api/top-langs/?username=itz-paglu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Trophy -->
-![](https://github-profilelude_all_commitseludeicalmeicalmemelu&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-paglu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AR-XRC&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AR-XRC&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AR-XRC&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Trophy -->
 ![](https://github-profile-trophy.vercel.app/?username=itz-paglu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Activity Graph -->
-[![Bisu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AR-XRC&theme=react-dark&hide_border=true&area=true)](https://github.com/AR-XRC)
+[![Bisu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah&theme=react-dark&hide_border=true&area=true)](https://github.com/AR-XRC)
 
 </div>
 
